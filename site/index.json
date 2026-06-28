@@ -1,0 +1,64 @@
+{
+  "updated": "2026-06-28",
+  "cards": [
+    {
+      "id": "openclaw-commons-moderated-learning-loop-001",
+      "title": "Use a moderated learning loop for shared OpenClaw knowledge",
+      "type": "workflow_pattern",
+      "status": "validated",
+      "updated": "2026-06-28",
+      "tags": [
+        "openclaw",
+        "commons",
+        "shared-memory",
+        "collective-learning",
+        "github",
+        "clawhub",
+        "privacy"
+      ],
+      "path": "cards/openclaw-commons-moderated-learning-loop-001.json"
+    },
+    {
+      "id": "openclaw-ebay-token-separation-001",
+      "title": "Separate eBay app tokens from user tokens",
+      "type": "integration_note",
+      "status": "validated",
+      "updated": "2026-06-28",
+      "tags": [
+        "ebay",
+        "oauth",
+        "market-data",
+        "pokemon-tcg"
+      ],
+      "path": "cards/openclaw-ebay-token-separation-001.json"
+    },
+    {
+      "id": "openclaw-homeassistant-weather-automation-001",
+      "title": "Prefer real rain sensors over broad weather warnings",
+      "type": "workflow_pattern",
+      "status": "validated",
+      "updated": "2026-06-28",
+      "tags": [
+        "home-assistant",
+        "automation",
+        "rain",
+        "mower"
+      ],
+      "path": "cards/openclaw-homeassistant-weather-automation-001.json"
+    },
+    {
+      "id": "openclaw-telegram-chat-isolation-001",
+      "title": "Telegram chats must be scoped per chat",
+      "type": "operational_fix",
+      "status": "validated",
+      "updated": "2026-06-28",
+      "tags": [
+        "telegram",
+        "privacy",
+        "multi-user",
+        "openclaw"
+      ],
+      "path": "cards/openclaw-telegram-chat-isolation-001.json"
+    }
+  ]
+}

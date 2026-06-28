@@ -1,0 +1,9 @@
+__pycache__/
+.DS_Store
+*.tmp
+.clawhub/
+reports/
+skills/
+pending/
+PULL_REQUEST_BODY.md
+COMMIT_MESSAGE.txt

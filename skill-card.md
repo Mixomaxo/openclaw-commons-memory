@@ -1,4 +1,4 @@
-# OpenClaw Commons Memory
+# OpenClaw Agent Memory Commons
 
 OpenClaw Commons Memory is a privacy-safe shared knowledge bundle for OpenClaw agents.
 

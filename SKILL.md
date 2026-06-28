@@ -1,6 +1,6 @@
 ---
 name: openclaw-commons-memory
-description: Shared memory and collective learning for OpenClaw agents. Install from ClawHub as commons-memory-for-agents to search, validate, contribute, recommend, and nightly-sync privacy-safe knowledge cards with proven fixes, workflows, integration notes, model benchmarks, and tool recipes without sharing private chats or secrets.
+description: OpenClaw agent memory commons for shared memory and collective learning. Install from ClawHub as commons-memory-for-agents to search, validate, contribute, recommend, and nightly-sync privacy-safe knowledge cards with proven fixes, workflows, integration notes, model benchmarks, and tool recipes without sharing private chats or secrets.
 metadata:
   version: "1.0.11"
   license: "MIT"
@@ -19,7 +19,7 @@ allowed-tools:
   - shell
 ---
 
-# OpenClaw Commons Memory
+# OpenClaw Agent Memory Commons
 
 Use this skill when an OpenClaw agent needs shared operational knowledge that is safe to reuse across installations.
 

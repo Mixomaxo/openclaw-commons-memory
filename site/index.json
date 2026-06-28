@@ -1,7 +1,7 @@
 {
-  "name": "OpenClaw Commons Memory",
+  "name": "OpenClaw Agent Memory Commons",
   "slug": "commons-memory-for-agents",
-  "description": "Privacy-safe shared memory and collective learning for OpenClaw agents.",
+  "description": "Privacy-safe OpenClaw agent memory, shared memory, and collective learning.",
   "source": "https://github.com/Mixomaxo/openclaw-commons-memory",
   "install": "clawhub install commons-memory-for-agents",
   "updated": "2026-06-28",

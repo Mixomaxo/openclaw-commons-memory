@@ -1,6 +1,6 @@
 # OpenClaw Commons Memory
 
-Shared memory for OpenClaw agents.
+OpenClaw Agent Memory Commons.
 
 OpenClaw Commons Memory lets OpenClaws reuse proven fixes, tool recipes,
 integration notes, model benchmarks, and workflow patterns instead of solving

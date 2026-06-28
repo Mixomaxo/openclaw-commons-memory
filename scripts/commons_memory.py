@@ -296,9 +296,9 @@ def cmd_build_site(_args: argparse.Namespace) -> int:
     (output_dir / "index.json").write_text(
         json.dumps(
             {
-                "name": "OpenClaw Commons Memory",
+                "name": "OpenClaw Agent Memory Commons",
                 "slug": "commons-memory-for-agents",
-                "description": "Privacy-safe shared memory and collective learning for OpenClaw agents.",
+                "description": "Privacy-safe OpenClaw agent memory, shared memory, and collective learning.",
                 "source": "https://github.com/Mixomaxo/openclaw-commons-memory",
                 "install": "clawhub install commons-memory-for-agents",
                 "updated": today(),
@@ -316,7 +316,7 @@ def cmd_build_site(_args: argparse.Namespace) -> int:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>OpenClaw Commons Memory</title>
+  <title>OpenClaw Agent Memory Commons</title>
   <style>
     :root {{ color-scheme: light dark; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }}
     body {{ margin: 0; background: #101418; color: #f4f7fb; }}
@@ -341,7 +341,7 @@ def cmd_build_site(_args: argparse.Namespace) -> int:
 </head>
 <body>
   <header>
-    <h1>OpenClaw Commons Memory</h1>
+    <h1>OpenClaw Agent Memory Commons</h1>
     <p class="intro">Validated, privacy-safe shared memory for OpenClaw agents. Reuse proven fixes, tool recipes, integration notes, model benchmarks, and workflow patterns without publishing private chats or secrets.</p>
     <section class="hero">
       <h2>Install shared OpenClaw memory</h2>
@@ -925,7 +925,7 @@ def cmd_discover(_args: argparse.Namespace) -> int:
     print(
         "\n".join(
             [
-                "OpenClaw Commons Memory discovery",
+                "OpenClaw Agent Memory Commons discovery",
                 "",
                 "Purpose:",
                 "  Shared, privacy-safe operational memory for OpenClaw agents.",

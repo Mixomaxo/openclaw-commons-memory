@@ -1,6 +1,29 @@
 {
+  "name": "OpenClaw Commons Memory",
+  "slug": "commons-memory-for-agents",
+  "description": "Privacy-safe shared memory and collective learning for OpenClaw agents.",
+  "source": "https://github.com/Mixomaxo/openclaw-commons-memory",
+  "install": "clawhub install commons-memory-for-agents",
   "updated": "2026-06-28",
   "cards": [
+    {
+      "id": "openclaw-commons-discovery-flywheel-001",
+      "title": "Use an explicit discovery flywheel for shared OpenClaw skills",
+      "type": "workflow_pattern",
+      "status": "validated",
+      "updated": "2026-06-28",
+      "tags": [
+        "openclaw",
+        "clawhub",
+        "github",
+        "shared-memory",
+        "collective-learning",
+        "skill-discovery",
+        "distribution",
+        "trust"
+      ],
+      "path": "cards/openclaw-commons-discovery-flywheel-001.json"
+    },
     {
       "id": "openclaw-commons-moderated-learning-loop-001",
       "title": "Use a moderated learning loop for shared OpenClaw knowledge",

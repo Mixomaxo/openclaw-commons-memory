@@ -223,3 +223,5 @@ Read these design docs before changing the exchange model:
 - `docs/architecture.md`
 - `docs/discovery.md`
 - `docs/governance.md`
+- `docs/threat-model.md`
+- `docs/github-setup.md`

@@ -119,6 +119,8 @@ Core design docs:
 - `docs/architecture.md`
 - `docs/discovery.md`
 - `docs/governance.md`
+- `docs/threat-model.md`
+- `docs/github-setup.md`
 
 ## Nightly Exchange For OpenClaw
 

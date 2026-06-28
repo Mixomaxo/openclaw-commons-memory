@@ -1,6 +1,6 @@
 ---
 name: openclaw-commons-memory
-description: Search, validate, and share privacy-safe OpenClaw knowledge cards so agents can reuse proven fixes, workflows, integration notes, and benchmarks without sharing private chats or secrets.
+description: Collective learning and shared memory for OpenClaw agents. Search, validate, contribute, and sync privacy-safe knowledge cards so OpenClaws can reuse proven fixes, workflows, integration notes, model benchmarks, and tool recipes without sharing private chats or secrets.
 metadata:
   version: "1.0.0"
   license: "MIT"
